@@ -1,6 +1,6 @@
 # Network-Services
 
-C programs associated with Network Services:
+<strong>C programs associated with Network Services:</strong>
 <p>&#8226; PUS-01 - TCP and UDP sockets</p>
 <p>&#8226; PUS-02 - IPv4/IPv6 Protocols</p>
 <p>&#8226; PUS-03 - IP options and RAW sockets</p>
